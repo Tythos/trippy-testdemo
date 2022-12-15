@@ -2,9 +2,9 @@
  * @author <code@tythos.net>
  */
 
-import Triplet from "../Triplet/index.js";
+import Trippy from "../Trippy/index.js";
 
-class Header extends Triplet {
+class Header extends Trippy {
     constructor() {
         super(import.meta.url);
     }
