@@ -4,3 +4,6 @@
 [submodule "Trippy"]
 	path = Trippy
 	url = https://github.com/Tythos/Trippy.git
+[submodule "TrippyButton"]
+	path = TrippyButton
+	url = https://github.com/Tythos/TrippyButton.git
