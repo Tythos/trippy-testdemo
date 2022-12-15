@@ -1,6 +1,14 @@
 # trippy-testdemo
 
-Boilerplate for forking minimal webapps. Largely intended as a not-quite-dropin replacement for React without the build, abstraction, or other overhead. A reusable "component"-like element (a "trippy") is defined by at least three resources:
+Demonstrates a collection of Trippy-based reusable interface elements. Basic quickstart:
+
+```
+> git clone https://github.com/Tythos/trippy-testdemo
+> git submodule init
+> git submodule update
+```
+
+Boilerplate for forking minimal webapps. Largely intended as a not-quite-dropin replacement for React without the build, abstraction, or other overhead. A reusable "component"-like element (a "Trippy") is defined by at least three resources:
 
 * A .CSS file that is asserted for attachment once
 
