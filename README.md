@@ -36,4 +36,6 @@ Events are supported by two specific methods:
 
 1. Finally, a "fire()" method manages the publish behavior of specific events when a tag is activated.
 
-Trippy itself is an upstream repository referenced from this test demo by submodule.
+Trippy itself is an upstream repository referenced from this test demo by submodule::
+
+  https://github.com/Tythos/Trippy.git
